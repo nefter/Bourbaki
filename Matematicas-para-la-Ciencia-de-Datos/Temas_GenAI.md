@@ -2,8 +2,8 @@
 ## Módulo I: Enfoque en web
 1. Vibe data science y prompt engineering
 2. Prompt engineering II: Aumentando prompts, patrones y playgrounds
-3. Generación de reportes de entrenamiento/resultados/tuning
-4. Visualización interactiva y Storytelling (plotly, streamlit)
+3. Generación de reportes de entrenamiento/resultados/tuning: Gemini canvas para reportes, gráficas (colab), infografía (html), web page, audio overview
+4. Visualización interactiva y Storytelling (plotly, streamlit). Add notebookLM.
 
 ## Módulo II: Enfoque en agentes
 1. Uso de agentes en Cursor y Antigravity, planning mode
