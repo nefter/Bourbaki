@@ -3,12 +3,12 @@
 1. Vibe data science y prompt engineering
 2. Prompt engineering II: Aumentando prompts, patrones y playgrounds
 3. Generación de reportes de entrenamiento/resultados/tuning: Gemini canvas para reportes, gráficas (colab), infografía (html), web page, audio overview. Dos inputs: free input, and cv_results
-4. Lead with notebookLM for better audio overviews + other tools. Visualización interactiva y Storytelling (plotly, streamlit, deck.gl). Add gamma. 
+4. Lead with notebookLM for better audio overviews + other tools, brief RAG overview. Visualización interactiva y Storytelling (plotly, streamlit, deck.gl). Add gamma. 
 
 ## Módulo II: Enfoque en agentes
 1. Uso de agentes en Cursor y Antigravity, planning mode
 2. Servidores MCP
-3. Enjambres de agentes
+3. Agentes en paralelo: (1) ML, (2) SWE
 4. Autoresearch
 
 ## Módulo III: Enfoque en terminal
